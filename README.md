@@ -12,7 +12,7 @@ A collection of standalone, physical-keyboard-optimized applications and tools e
   <tbody>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/qcyberdeck">QCyberdeck</a></b></td>
-      <td>Full Linux terminal cyberdeck with CRT phosphors & canonical Ubuntu ASCII art suite</td>
+      <td>Full Linux terminal cyberdeck with built-in SSH, Git, pkg manager & CRT phosphors</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/podbb">PodBB</a></b></td>
