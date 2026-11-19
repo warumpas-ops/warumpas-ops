@@ -23,7 +23,7 @@ A curated collection of standalone, physical-keyboard-optimized applications and
       <td>Native podcast aggregator & player built for physical navigation</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/warumpas-ops/focustimer-bb10">Orbit</a></b></td>
+      <td><b><a href="https://github.com/warumpas-ops/Orbit">Orbit</a></b></td>
       <td>Minimalist focus & Pomodoro timer with tactile keyboard shortcuts and Space Grotesk typography</td>
     </tr>
     <tr>
