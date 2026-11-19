@@ -15,6 +15,10 @@ A collection of standalone, physical-keyboard-optimized applications and tools e
       <td>Full Linux terminal cyberdeck with built-in SSH, Git, pkg manager & CRT phosphors</td>
     </tr>
     <tr>
+      <td><b><a href="https://github.com/warumpas-ops/ankidroid-bb10">AnkiBB10</a></b></td>
+      <td>Flashcard study app with full AnkiWeb media sync, physical shortcuts & OLED theme</td>
+    </tr>
+    <tr>
       <td><b><a href="https://github.com/warumpas-ops/podbb">PodBB</a></b></td>
       <td>Native podcast aggregator & player built for physical navigation</td>
     </tr>
@@ -41,6 +45,10 @@ A collection of standalone, physical-keyboard-optimized applications and tools e
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/focustimer-bb10">FocusTimer</a></b></td>
       <td>Minimalist Pomodoro & focus timer with tactile keyboard shortcuts</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/warumpas-ops/gymbb">GymBB</a></b></td>
+      <td>Minimal native workout & exercise tracker designed for single-hand keyboard logging</td>
     </tr>
   </tbody>
 </table>
