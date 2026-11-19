@@ -12,27 +12,27 @@ A curated collection of standalone, physical-keyboard-optimized applications and
   <tbody>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/qcyberdeck">QCyberdeck</a></b></td>
-      <td>Full Linux terminal cyberdeck with built-in SSH, Git, pkg manager & CRT phosphors</td>
+      <td>Full Linux terminal cyberdeck with built-in SSH, Git, pkg manager &amp; CRT phosphors</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/ankidroid-bb10">AnkiDroid</a></b></td>
-      <td>Flashcard study app with full AnkiWeb media sync, physical shortcuts & OLED theme</td>
+      <td>Flashcard study app with full AnkiWeb media sync, physical shortcuts &amp; OLED theme</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/podbb">PodBB</a></b></td>
-      <td>Native podcast aggregator & player built for physical navigation</td>
+      <td>Native podcast aggregator &amp; player built for physical navigation</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/Orbit">Orbit</a></b></td>
-      <td>Minimalist focus & Pomodoro timer with tactile keyboard shortcuts and Space Grotesk typography</td>
+      <td>Minimalist focus &amp; Pomodoro timer with tactile keyboard shortcuts and Space Grotesk typography</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/notevault-bb10">NoteVault</a></b></td>
-      <td>Minimalist monotone note-taking vault with SD card sync & Space Grotesk font</td>
+      <td>Minimalist monotone note-taking vault with SD card sync &amp; Space Grotesk font</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/bbtype">BBType</a></b></td>
-      <td>Physical keyboard typing speed & accuracy benchmark (Monkeytype client)</td>
+      <td>Physical keyboard typing speed &amp; accuracy benchmark (Monkeytype client)</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/cosmos-bb10">Cosmos</a></b></td>
@@ -40,7 +40,15 @@ A curated collection of standalone, physical-keyboard-optimized applications and
     </tr>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/gymbb">GymBB</a></b></td>
-      <td>Minimal native workout & exercise tracker designed for single-hand keyboard logging</td>
+      <td>Minimal native workout &amp; exercise tracker designed for single-hand keyboard logging</td>
     </tr>
   </tbody>
 </table>
+
+---
+
+<p align="center">
+  <a href="https://ko-fi.com/warumpas">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+  </a>
+</p>
