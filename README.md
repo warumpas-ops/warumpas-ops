@@ -11,6 +11,10 @@ A curated collection of standalone, physical-keyboard-optimized applications and
   </thead>
   <tbody>
     <tr>
+      <td><b><a href="https://github.com/warumpas-ops/gambit-bb10">Gambit</a></b></td>
+      <td>Interactive chess opening trainer with guided tactical arrows, conceptual annotations &amp; active recall drills</td>
+    </tr>
+    <tr>
       <td><b><a href="https://github.com/warumpas-ops/qcyberdeck">QCyberdeck</a></b></td>
       <td>Full Linux terminal cyberdeck with built-in SSH, Git, pkg manager &amp; CRT phosphors</td>
     </tr>
@@ -40,7 +44,7 @@ A curated collection of standalone, physical-keyboard-optimized applications and
     </tr>
     <tr>
       <td><b><a href="https://github.com/warumpas-ops/gymbb">GymBB</a></b></td>
-      <td>Minimal native workout &amp; exercise tracker designed for single-hand keyboard logging</td>
+      <td>Minimal workout &amp; exercise tracker designed for single-hand keyboard logging</td>
     </tr>
   </tbody>
 </table>
